@@ -1,0 +1,228 @@
+2026-07-05 20:01:45,985 - INFO - EXTRACT STAGE
+2026-07-05 20:01:48,692 - INFO - Analytics rows: 281
+2026-07-05 20:01:48,693 - INFO - Orders rows: 86
+2026-07-05 20:01:48,693 - INFO - Order Items rows: 210
+2026-07-05 20:01:48,693 - INFO - CLEAN STAGE
+2026-07-05 20:03:47,087 - INFO - EXTRACT STAGE
+2026-07-05 20:03:48,858 - INFO - Analytics rows: 281
+2026-07-05 20:03:48,858 - INFO - Orders rows: 86
+2026-07-05 20:03:48,858 - INFO - Order Items rows: 210
+2026-07-05 20:03:48,859 - INFO - CLEAN STAGE
+2026-07-05 20:06:37,935 - INFO - EXTRACT STAGE
+2026-07-05 20:06:41,025 - INFO - Analytics rows: 281
+2026-07-05 20:06:41,026 - INFO - Orders rows: 86
+2026-07-05 20:06:41,026 - INFO - Order Items rows: 210
+2026-07-05 20:06:41,026 - INFO - CLEAN STAGE
+2026-07-05 20:08:18,797 - INFO - EXTRACT STAGE
+2026-07-05 20:08:20,524 - INFO - Analytics rows: 281
+2026-07-05 20:08:20,524 - INFO - Orders rows: 86
+2026-07-05 20:08:20,524 - INFO - Order Items rows: 210
+2026-07-05 20:08:20,525 - INFO - CLEAN STAGE
+2026-07-05 20:08:20,536 - INFO - Duplicates removed.
+2026-07-05 20:08:20,536 - INFO - Datetime conversion completed.
+2026-07-05 20:08:20,536 - INFO - TRANSFORM STAGE
+2026-07-05 20:08:20,538 - INFO - Indicators calculated.
+2026-07-05 20:08:20,543 - INFO - LOAD STAGE
+2026-07-05 20:08:20,546 - INFO - CSV exported successfully.
+2026-07-05 20:08:20,546 - INFO - VISUALIZATION STAGE
+2026-07-05 20:08:21,619 - INFO - Graph saved.
+2026-07-05 20:14:45,236 - INFO - Pipeline started
+2026-07-05 20:14:45,296 - INFO - Starting extraction
+2026-07-05 20:14:45,296 - INFO - EXTRACT STAGE
+2026-07-05 20:14:47,846 - INFO - Analytics rows: 281
+2026-07-05 20:14:47,846 - INFO - Orders rows: 86
+2026-07-05 20:14:47,847 - INFO - Order Items rows: 210
+2026-07-05 20:14:47,847 - INFO - Extraction completed
+2026-07-05 20:14:47,847 - INFO - Starting cleaning stage
+2026-07-05 20:14:47,847 - INFO - CLEAN STAGE
+2026-07-05 20:14:47,865 - INFO - Duplicates removed.
+2026-07-05 20:14:47,865 - INFO - Datetime conversion completed.
+2026-07-05 20:14:47,866 - INFO - Cleaning completed
+2026-07-05 20:14:47,866 - INFO - Starting transformation stage
+2026-07-05 20:14:47,866 - INFO - TRANSFORM STAGE
+2026-07-05 20:14:47,871 - INFO - Indicators calculated successfully
+2026-07-05 20:14:47,877 - INFO - Transformation completed
+2026-07-05 20:14:47,877 - INFO - Saving output file
+2026-07-05 20:14:47,877 - INFO - LOAD STAGE
+2026-07-05 20:14:47,881 - INFO - CSV exported successfully.
+2026-07-05 20:14:47,881 - INFO - CSV saved
+2026-07-05 20:14:47,881 - INFO - Generating graphs
+2026-07-05 20:14:47,881 - INFO - VISUALIZATION STAGE
+2026-07-05 20:14:48,301 - INFO - Graphs generated successfully
+2026-07-05 20:14:48,301 - INFO - Graphs created
+2026-07-05 20:14:48,301 - INFO - Pipeline finished.
+2026-07-05 20:25:03,510 - INFO - Pipeline started
+2026-07-05 20:25:03,550 - INFO - Starting extraction
+2026-07-05 20:25:03,550 - INFO - EXTRACT STAGE
+2026-07-05 20:25:06,216 - INFO - Analytics rows: 281
+2026-07-05 20:25:06,217 - INFO - Orders rows: 86
+2026-07-05 20:25:06,217 - INFO - Order Items rows: 210
+2026-07-05 20:25:06,217 - INFO - Extraction completed
+2026-07-05 20:25:06,217 - INFO - Starting cleaning stage
+2026-07-05 20:25:06,217 - INFO - CLEAN STAGE
+2026-07-05 20:25:06,230 - INFO - Duplicates removed.
+2026-07-05 20:25:06,230 - INFO - Datetime conversion completed.
+2026-07-05 20:25:06,230 - INFO - Cleaning completed
+2026-07-05 20:25:06,230 - INFO - Starting transformation stage
+2026-07-05 20:25:06,230 - INFO - TRANSFORM STAGE
+2026-07-05 20:25:06,235 - INFO - Indicators calculated successfully
+2026-07-05 20:25:06,241 - INFO - Transformation completed
+2026-07-05 20:25:06,241 - INFO - Saving output file
+2026-07-05 20:25:06,241 - INFO - LOAD STAGE
+2026-07-05 20:25:06,244 - INFO - CSV exported successfully.
+2026-07-05 20:25:06,244 - INFO - CSV saved
+2026-07-05 20:25:06,244 - INFO - Generating graphs
+2026-07-05 20:25:06,245 - INFO - Generating graphs
+2026-07-05 20:25:06,918 - INFO - Styled graphs generated
+2026-07-05 20:25:06,918 - INFO - Graphs created
+2026-07-05 20:25:06,918 - INFO - Pipeline finished.
+2026-07-05 20:32:09,190 - INFO - Pipeline started
+2026-07-05 20:32:09,234 - INFO - Starting extraction
+2026-07-05 20:32:09,234 - INFO - EXTRACT STAGE
+2026-07-05 20:32:12,009 - INFO - Analytics rows: 281
+2026-07-05 20:32:12,009 - INFO - Orders rows: 86
+2026-07-05 20:32:12,009 - INFO - Order Items rows: 210
+2026-07-05 20:32:12,009 - INFO - Extraction completed
+2026-07-05 20:32:12,009 - INFO - Starting cleaning stage
+2026-07-05 20:32:12,009 - INFO - CLEAN STAGE
+2026-07-05 20:32:12,016 - INFO - Duplicates removed.
+2026-07-05 20:32:12,016 - INFO - Datetime conversion completed.
+2026-07-05 20:32:12,016 - INFO - Cleaning completed
+2026-07-05 20:32:12,016 - INFO - Starting transformation stage
+2026-07-05 20:32:12,016 - INFO - TRANSFORM STAGE
+2026-07-05 20:32:12,019 - INFO - Indicators calculated successfully
+2026-07-05 20:32:12,024 - INFO - Transformation completed
+2026-07-05 20:32:12,024 - INFO - Saving output file
+2026-07-05 20:32:12,024 - INFO - LOAD STAGE
+2026-07-05 20:32:12,027 - INFO - CSV exported successfully.
+2026-07-05 20:32:12,027 - INFO - CSV saved
+2026-07-05 20:32:12,027 - INFO - Generating graphs
+2026-07-05 20:32:12,027 - INFO - Generating clean professional graphs
+2026-07-05 20:32:12,618 - INFO - Clean graphs generated
+2026-07-05 20:32:12,618 - INFO - Graphs created
+2026-07-05 20:32:12,618 - INFO - Pipeline finished.
+2026-07-05 23:17:05,264 - INFO - Pipeline started
+2026-07-05 23:17:05,324 - INFO - Starting extraction
+2026-07-05 23:17:05,324 - INFO - EXTRACT STAGE
+2026-07-05 23:17:17,426 - INFO - Analytics rows: 281
+2026-07-05 23:17:17,427 - INFO - Orders rows: 86
+2026-07-05 23:17:17,428 - INFO - Order Items rows: 210
+2026-07-05 23:17:17,431 - INFO - Extraction completed
+2026-07-05 23:17:17,431 - INFO - Starting cleaning stage
+2026-07-05 23:17:17,431 - INFO - CLEAN STAGE
+2026-07-05 23:17:17,446 - INFO - Duplicates removed.
+2026-07-05 23:17:17,446 - INFO - Datetime conversion completed.
+2026-07-05 23:17:17,446 - INFO - Cleaning completed
+2026-07-05 23:17:17,446 - INFO - Starting transformation stage
+2026-07-05 23:17:17,446 - INFO - TRANSFORM STAGE
+2026-07-05 23:17:17,450 - INFO - Indicators calculated successfully
+2026-07-05 23:17:17,454 - INFO - Transformation completed
+2026-07-05 23:17:17,455 - INFO - Saving output file
+2026-07-05 23:17:17,455 - INFO - LOAD STAGE
+2026-07-05 23:17:17,541 - INFO - CSV exported successfully.
+2026-07-05 23:17:17,542 - INFO - CSV saved
+2026-07-05 23:17:17,542 - INFO - Generating graphs
+2026-07-05 23:17:17,542 - INFO - Generating clean professional graphs
+2026-07-05 23:17:18,150 - INFO - Clean graphs generated
+2026-07-05 23:17:18,150 - INFO - Graphs created
+2026-07-05 23:17:18,150 - INFO - Pipeline finished.
+2026-07-05 23:37:39,400 - INFO - Pipeline started
+2026-07-05 23:37:39,623 - INFO - Starting extraction
+2026-07-05 23:37:39,623 - INFO - EXTRACT STAGE
+2026-07-05 23:37:42,299 - INFO - Analytics rows: 281
+2026-07-05 23:37:42,300 - INFO - Orders rows: 86
+2026-07-05 23:37:42,300 - INFO - Order Items rows: 210
+2026-07-05 23:37:42,307 - INFO - Extraction completed
+2026-07-05 23:37:42,307 - INFO - Starting cleaning stage
+2026-07-05 23:37:42,307 - INFO - CLEAN STAGE
+2026-07-05 23:37:42,321 - INFO - Duplicates removed.
+2026-07-05 23:37:42,321 - INFO - Datetime conversion completed.
+2026-07-05 23:37:42,321 - INFO - Cleaning completed
+2026-07-05 23:37:42,322 - INFO - Starting transformation stage
+2026-07-05 23:37:42,322 - INFO - TRANSFORM STAGE
+2026-07-05 23:37:42,326 - INFO - Indicators calculated successfully
+2026-07-05 23:37:42,342 - INFO - Transformation completed
+2026-07-05 23:37:42,342 - INFO - Saving output file
+2026-07-05 23:37:42,342 - INFO - LOAD STAGE
+2026-07-05 23:37:42,346 - INFO - CSV exported successfully.
+2026-07-05 23:37:42,347 - INFO - CSV saved
+2026-07-05 23:37:42,347 - INFO - Generating graphs
+2026-07-05 23:37:42,347 - INFO - Generating clean professional graphs
+2026-07-05 23:37:43,089 - INFO - Clean graphs generated
+2026-07-05 23:37:43,089 - INFO - Graphs created
+2026-07-05 23:37:43,089 - INFO - Pipeline finished.
+2026-07-05 23:38:38,012 - INFO - Pipeline started
+2026-07-05 23:38:38,052 - INFO - Starting extraction
+2026-07-05 23:38:38,053 - INFO - EXTRACT STAGE
+2026-07-05 23:38:40,119 - INFO - Analytics rows: 281
+2026-07-05 23:38:40,119 - INFO - Orders rows: 86
+2026-07-05 23:38:40,119 - INFO - Order Items rows: 210
+2026-07-05 23:38:40,120 - INFO - Extraction completed
+2026-07-05 23:38:40,120 - INFO - Starting cleaning stage
+2026-07-05 23:38:40,120 - INFO - CLEAN STAGE
+2026-07-05 23:38:40,136 - INFO - Duplicates removed.
+2026-07-05 23:38:40,136 - INFO - Datetime conversion completed.
+2026-07-05 23:38:40,136 - INFO - Cleaning completed
+2026-07-05 23:38:40,136 - INFO - Starting transformation stage
+2026-07-05 23:38:40,136 - INFO - TRANSFORM STAGE
+2026-07-05 23:38:40,141 - INFO - Indicators calculated successfully
+2026-07-05 23:38:40,148 - INFO - Transformation completed
+2026-07-05 23:38:40,149 - INFO - Saving output file
+2026-07-05 23:38:40,149 - INFO - LOAD STAGE
+2026-07-05 23:38:40,152 - INFO - CSV exported successfully.
+2026-07-05 23:38:40,152 - INFO - CSV saved
+2026-07-05 23:38:40,152 - INFO - Generating graphs
+2026-07-05 23:38:40,152 - INFO - Generating clean professional graphs
+2026-07-05 23:38:40,713 - INFO - Clean graphs generated
+2026-07-05 23:38:40,713 - INFO - Graphs created
+2026-07-05 23:38:40,713 - INFO - Pipeline finished.
+2026-07-05 23:39:20,411 - INFO - Pipeline started
+2026-07-05 23:39:20,462 - INFO - Starting extraction
+2026-07-05 23:39:20,462 - INFO - EXTRACT STAGE
+2026-07-05 23:39:22,236 - INFO - Analytics rows: 281
+2026-07-05 23:39:22,237 - INFO - Orders rows: 86
+2026-07-05 23:39:22,237 - INFO - Order Items rows: 210
+2026-07-05 23:39:22,237 - INFO - Extraction completed
+2026-07-05 23:39:22,237 - INFO - Starting cleaning stage
+2026-07-05 23:39:22,237 - INFO - CLEAN STAGE
+2026-07-05 23:39:22,247 - INFO - Duplicates removed.
+2026-07-05 23:39:22,247 - INFO - Datetime conversion completed.
+2026-07-05 23:39:22,247 - INFO - Cleaning completed
+2026-07-05 23:39:22,247 - INFO - Starting transformation stage
+2026-07-05 23:39:22,247 - INFO - TRANSFORM STAGE
+2026-07-05 23:39:22,251 - INFO - Indicators calculated successfully
+2026-07-05 23:39:22,255 - INFO - Transformation completed
+2026-07-05 23:39:22,255 - INFO - Saving output file
+2026-07-05 23:39:22,255 - INFO - LOAD STAGE
+2026-07-05 23:39:22,257 - INFO - CSV exported successfully.
+2026-07-05 23:39:22,257 - INFO - CSV saved
+2026-07-05 23:39:22,257 - INFO - Generating graphs
+2026-07-05 23:39:22,257 - INFO - Generating clean professional graphs
+2026-07-05 23:39:22,801 - INFO - Clean graphs generated
+2026-07-05 23:39:22,801 - INFO - Graphs created
+2026-07-05 23:39:22,801 - INFO - Pipeline finished.
+2026-07-05 23:39:43,164 - INFO - Pipeline started
+2026-07-05 23:39:43,218 - INFO - Starting extraction
+2026-07-05 23:39:43,218 - INFO - EXTRACT STAGE
+2026-07-05 23:39:45,036 - INFO - Analytics rows: 281
+2026-07-05 23:39:45,037 - INFO - Orders rows: 86
+2026-07-05 23:39:45,037 - INFO - Order Items rows: 210
+2026-07-05 23:39:45,037 - INFO - Extraction completed
+2026-07-05 23:39:45,037 - INFO - Starting cleaning stage
+2026-07-05 23:39:45,037 - INFO - CLEAN STAGE
+2026-07-05 23:39:45,048 - INFO - Duplicates removed.
+2026-07-05 23:39:45,048 - INFO - Datetime conversion completed.
+2026-07-05 23:39:45,048 - INFO - Cleaning completed
+2026-07-05 23:39:45,048 - INFO - Starting transformation stage
+2026-07-05 23:39:45,048 - INFO - TRANSFORM STAGE
+2026-07-05 23:39:45,056 - INFO - Indicators calculated successfully
+2026-07-05 23:39:45,062 - INFO - Transformation completed
+2026-07-05 23:39:45,063 - INFO - Saving output file
+2026-07-05 23:39:45,063 - INFO - LOAD STAGE
+2026-07-05 23:39:45,065 - INFO - CSV exported successfully.
+2026-07-05 23:39:45,065 - INFO - CSV saved
+2026-07-05 23:39:45,065 - INFO - Generating graphs
+2026-07-05 23:39:45,065 - INFO - Generating clean professional graphs
+2026-07-05 23:39:45,574 - INFO - Clean graphs generated
+2026-07-05 23:39:45,575 - INFO - Graphs created
+2026-07-05 23:39:45,575 - INFO - Pipeline finished.
